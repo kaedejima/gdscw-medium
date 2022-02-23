@@ -3,13 +3,15 @@
 ## Goals
 ### HTML
 - Learn basic tags and properties
-- Be able to build the approximate structure my oneself
+- Be able to build the approximate structure by oneself
+
 ### CSS
 - Learn basic stylings
 - Understand the sizings (px, %, em, rem, vh, vw ...)
 - Be able to use flex layout
 - Be able to build sticky navigation bars
 - Be able to make responsive websites (media query)
+
 ### SCSS
 - Learn how SCSS works
 - Be able to rewrite simple CSS into SCSS
