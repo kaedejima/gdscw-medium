@@ -190,6 +190,7 @@
     max-width: 450px;
   }
 }
+
 @media screen and (max-width: 550px) {
   .nav-signin{
     display: none;
