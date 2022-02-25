@@ -1,5 +1,6 @@
 # STUDY SESSION Vol.1 | Basic HTML and CSS
 (A learning material building )
+
 ## Goals
 ### HTML
 - Learn basic tags and properties
@@ -18,4 +19,8 @@
 
 ## Sample website
 We create a copy of [Medium](https://medium.com/) homepage. (Retrived on Feb 22, 2022) \
-<img src="./img/sample.png" width="50%">
+<img src="./img/sample.png" width="300px">
+
+## Markdown Documents
+- [HTML document](./HTML.md)
+- [CSS document](./CSS.md)
